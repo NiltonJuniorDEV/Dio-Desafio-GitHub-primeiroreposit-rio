@@ -2,7 +2,7 @@
 
 • git status
 
-• git Clone
+• git clone
 
 • git init
 
